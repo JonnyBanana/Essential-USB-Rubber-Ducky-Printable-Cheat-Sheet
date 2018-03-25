@@ -13,7 +13,7 @@ https://github.com/JonnyBanana/Huge-Collection-of-CheatSheet
 Electronic-Cheat-Sheet-and-Schematics-MegaCollection.
 https://github.com/JonnyBanana/Electronic-Cheat-Sheet-and-Schematics-MegaCollection 
 
-The-Most-Common-Passwords-Pin-e-ScreenLocks (Cheat Sheet, Stats and More...).
+The-Most-Common-Passwords-Pin-e-ScreenLocks (Cheat Sheet, Stats and More...) .
 https://github.com/JonnyBanana/The-Most-Common-Passwords-Pin-e-ScreenLocks 
 
 ENJOY YOUR MEAL ;)
