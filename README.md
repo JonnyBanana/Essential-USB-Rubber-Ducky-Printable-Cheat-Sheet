@@ -5,12 +5,15 @@ My personal RubberDucky Cheat Sheet
 
 
 All my Cheat Sheet Here.
+</BR>
 https://imgur.com/a/oZD6a 
 
 A Huge Collection of Programming Cheat Sheet.
+</BR>
 https://github.com/JonnyBanana/Huge-Collection-of-CheatSheet 
 
 Electronic-Cheat-Sheet-and-Schematics-MegaCollection.
+</BR>
 https://github.com/JonnyBanana/Electronic-Cheat-Sheet-and-Schematics-MegaCollection 
 
 The-Most-Common-Passwords-Pin-e-ScreenLocks (Cheat Sheet, Stats and More...):
