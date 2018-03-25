@@ -4,15 +4,15 @@ My personal RubberDucky Cheat Sheet
 ![Alt text](https://i.imgur.com/nLn3BZS.png "My personal RubberDucky Cheat Sheet JonnyBanana")
 
 
-All my Cheat Sheet Here.
+All my Cheat Sheet Here:
 </BR>
 https://imgur.com/a/oZD6a 
 
-A Huge Collection of Programming Cheat Sheet.
+A Huge Collection of Programming Cheat Sheet:
 </BR>
 https://github.com/JonnyBanana/Huge-Collection-of-CheatSheet 
 
-Electronic-Cheat-Sheet-and-Schematics-MegaCollection.
+Electronic-Cheat-Sheet-and-Schematics-MegaCollection:
 </BR>
 https://github.com/JonnyBanana/Electronic-Cheat-Sheet-and-Schematics-MegaCollection 
 
