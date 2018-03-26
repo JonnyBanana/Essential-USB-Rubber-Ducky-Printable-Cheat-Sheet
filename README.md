@@ -7,7 +7,7 @@ My personal RubberDucky Cheat Sheet
 
 All my Cheat Sheet Here:
 </BR>
-https://imgur.com/a/oZD6a 
+https://imgur.com/a/jKAyj 
 
 A Huge Collection of Programming Cheat Sheet:
 </BR>
