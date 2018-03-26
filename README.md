@@ -1,7 +1,7 @@
 # Essential-USB-Rubber-Ducky-Cheat-Sheet
 My personal RubberDucky Cheat Sheet
 
-![Alt text](https://i.imgur.com/nLn3BZS.png "My personal RubberDucky Cheat Sheet JonnyBanana")
+![Alt text](https://i.imgur.com/jRz0B2j.jpg "My personal Asciidots Cheat Sheet JonnyBanana")
 
 
 All my Cheat Sheet Here:
