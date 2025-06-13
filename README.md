@@ -2,7 +2,7 @@
 My personal RubberDucky Cheat Sheet
 
 
-![Alt text](https://i.imgur.com/nLn3BZS.png "My personal RubberDucky Cheat Sheet JonnyBanana")
+![Alt text](https://raw.githubusercontent.com/JonnyBanana/Essential-USB-Rubber-Ducky-Printable-Cheat-Sheet/refs/heads/master/RubberDuckyEssentialCheatSheet.jpg)")
 
 
 All my Cheat Sheet Here:
